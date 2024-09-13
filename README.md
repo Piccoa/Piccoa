@@ -17,23 +17,23 @@ My dream is to become a **software engineer**, specializing in video game develo
 
 I am currently focusing on:
 
-- ✏️ My studies
-- 💻 Learning multiple programming languages (Python, C, and C++)
+- **✏️ My studies**
+- **💻 Learning multiple programming languages (Python, C, and C++)**
 
 ## Follow My Progress
 
 I document my progress and projects on [GitHub](https://github.com/Piccoa), where you can find:
 
-- My progress in learning programming languages
-- Small projects in Python, C, and C++
+- **My progress in learning programming languages**
+- **Small projects in Python, C, and C++**
 
 ## Future Goals
 
 My goals are:
 
-- To succeed in my studies
-- To learn how to create video games independently
-- To join major video game studios
+- **To succeed in my studies**
+- **To learn how to create video games independently**
+- **To join major video game studios**
 
 ---
 
